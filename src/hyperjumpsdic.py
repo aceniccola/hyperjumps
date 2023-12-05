@@ -1,6 +1,7 @@
 ''' HyperDict Class:
 This is a class but we are using it to generate our constants 
 (if this problem were to be more general we would edit this class to give our algorithm more functionallity)
+This file exists for speed purposes. It preprosses data so that the algorithm takes less time overall.
 '''
 
 class hyperDict:
