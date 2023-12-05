@@ -1,6 +1,6 @@
 ''' HyperDict Class:
 This is a class but we are using it to generate our constants 
-(if this problem was applied generally we would edit this class to give it more functionallity)
+(if this problem were to be more general we would edit this class to give our algorithm more functionallity)
 '''
 
 class hyperDict:
