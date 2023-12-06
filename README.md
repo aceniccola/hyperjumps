@@ -1,6 +1,6 @@
 # Hyperjumps
 
-![image](https://github.com/aceniccola/hyperjumps/assets/109996166/2096a8e4-2e9a-4715-be70-d29309e9a9c5)
+![image](https://github.com/aceniccola/hyperjumps/assets/109996166/2096a8e4-2e9a-4715-be70-d29309e9a9c5)](https://github.com/aceniccola/hyperjumps/blob/main/Hyperjumps-bySamuelVelasco-Lede-scaled.webp)
 ## Problem
 Based on a puzzle made by [Quanta Magazine](https://hyperjumps.quantamagazine.org/). This puzzle is a numbers game where you are given a set and return a sequence that follows certain rule (explained on the website in great detail).
 
