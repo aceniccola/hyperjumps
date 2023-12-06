@@ -1,4 +1,5 @@
 # Hyperjumps
+<img src="https://github.com/aceniccola/hyperjumps/blob/main/Hyperjumps-bySamuelVelasco-Lede-scaled.png" alt="Hyperjumps banner with rocket and numbered planets">
 
 ## Problem
 Based on a puzzle made by [Quanta Magazine](https://hyperjumps.quantamagazine.org/). This puzzle is a numbers game where you are given a set and return a sequence that follows certain rule (explained on the website in great detail).
