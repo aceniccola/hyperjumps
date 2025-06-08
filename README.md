@@ -7,3 +7,5 @@ Based on a [puzzle](https://hyperjumps.quantamagazine.org/) made by [Quanta Maga
 ## Program
 This program is made to solve this problem effecietly (the naive solution can be found in the test.py file - warning it is disgusting). The more effecient solution uses a dictionary based approch and a couple of mathmatical shortcuts. It is still very lacking so if you see improvement potential, feel free to raise an issue. 
 
+## TODO
+Build a website scraper and our own website for demostration.
